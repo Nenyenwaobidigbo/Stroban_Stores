@@ -81,5 +81,5 @@ GitHub: github.com/Nenyenwaobidigbo(https://github.com/Nenyenwaobidigbo)
 
 ---
 
-> 📢 **Note**: All data used in this project is fictional and intended for educational purposes only.
+> **Note**: All data used in this project is fictional and intended for educational purposes only.
 
